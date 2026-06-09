@@ -1,1 +1,2 @@
-# Teican_GitHub-SSL_Salvago_Matias
+# SSL
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
